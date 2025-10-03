@@ -5,6 +5,21 @@
 This project is a **Recipe Book application** built using HTML, CSS, and JavaScript. It allows users to manage their recipes efficiently by performing CRUD operations (Create, Read, Update, Delete) and includes advanced search and filtering features to improve usability.
 
 ---
+## 🖼 Preview
+1. Recipe Book with Advanced Search and Filtering
+
+![ Recipe Book with Advanced Search and Filtering
+ Screenshot](127.0.0.1_5500_index.html.png)
+
+2. Add Recipe
+![ Recipe Book with Advanced Search and Filtering
+Screenshot](Second.png)
+
+3.Local-Storage
+![ Recipe Book with Advanced Search and Filtering
+Screenshot](Local-Storage.png)
+
+
 
 ## Features
 
