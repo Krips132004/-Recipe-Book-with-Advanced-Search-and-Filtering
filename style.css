@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8f0;
+  margin: 20px;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #d35400;
+  margin-bottom: 20px;
+}
+
+form, #search-filters {
+  background-color: white;
+  padding: 15px;
+  max-width: 600px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+input, select, textarea, button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #d35400;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #a04000;
+}
+
+.recipe-card {
+  background-color: white;
+  padding: 20px;
+  max-width: 600px;
+  margin: 15px auto;
+  border-left: 5px solid #d35400;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.recipe-card h3 {
+  margin-top: 0;
+}
+
+.recipe-card button {
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 8px 12px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.recipe-card .edit {
+  background-color: #27ae60;
+}
+
+.recipe-card .delete {
+  background-color: #e74c3c;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  color: #777;
+}
